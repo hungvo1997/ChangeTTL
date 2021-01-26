@@ -1,0 +1,46 @@
+C:\Users\DELL\source\repos\ChangeTTL\ChangeTTL\bin\Debug\ChangeTTL.exe.config
+C:\Users\DELL\source\repos\ChangeTTL\ChangeTTL\bin\Debug\ChangeTTL.exe
+C:\Users\DELL\source\repos\ChangeTTL\ChangeTTL\bin\Debug\ChangeTTL.pdb
+C:\Users\DELL\source\repos\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.Form1.resources
+C:\Users\DELL\source\repos\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.Properties.Resources.resources
+C:\Users\DELL\source\repos\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.exe
+C:\Users\DELL\source\repos\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.pdb
+C:\Users\vuhongtu\Downloads\ChangeTTL\ChangeTTL\bin\Debug\ChangeTTL.exe.config
+C:\Users\vuhongtu\Downloads\ChangeTTL\ChangeTTL\bin\Debug\ChangeTTL.exe
+C:\Users\vuhongtu\Downloads\ChangeTTL\ChangeTTL\bin\Debug\ChangeTTL.pdb
+C:\Users\vuhongtu\Downloads\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.csprojAssemblyReference.cache
+C:\Users\vuhongtu\Downloads\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.Form1.resources
+C:\Users\vuhongtu\Downloads\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.Properties.Resources.resources
+C:\Users\vuhongtu\Downloads\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.csproj.GenerateResource.cache
+C:\Users\vuhongtu\Downloads\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.csproj.CoreCompileInputs.cache
+C:\Users\vuhongtu\Downloads\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.exe
+C:\Users\vuhongtu\Downloads\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.pdb
+C:\Users\DELL\Desktop\ChangeTTL\ChangeTTL\bin\Debug\ChangeTTL.exe.config
+C:\Users\DELL\Desktop\ChangeTTL\ChangeTTL\bin\Debug\ChangeTTL.exe
+C:\Users\DELL\Desktop\ChangeTTL\ChangeTTL\bin\Debug\ChangeTTL.pdb
+C:\Users\DELL\Desktop\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.Form1.resources
+C:\Users\DELL\Desktop\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.Properties.Resources.resources
+C:\Users\DELL\Desktop\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.exe
+C:\Users\DELL\Desktop\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.pdb
+C:\Users\DELL\Desktop\ChangeTTL\ChangeTTL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\ChangeTTL\ChangeTTL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.csproj.CopyComplete
+\\192.168.68.15\nhom tk smart\Vo Hong Hung\ChangeTTL\ChangeTTL\bin\Debug\ChangeTTL.exe.config
+\\192.168.68.15\nhom tk smart\Vo Hong Hung\ChangeTTL\ChangeTTL\bin\Debug\ChangeTTL.exe
+\\192.168.68.15\nhom tk smart\Vo Hong Hung\ChangeTTL\ChangeTTL\bin\Debug\ChangeTTL.pdb
+\\192.168.68.15\nhom tk smart\Vo Hong Hung\ChangeTTL\ChangeTTL\bin\Debug\Newtonsoft.Json.dll
+\\192.168.68.15\nhom tk smart\Vo Hong Hung\ChangeTTL\ChangeTTL\bin\Debug\Newtonsoft.Json.xml
+\\192.168.68.15\nhom tk smart\Vo Hong Hung\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.csprojAssemblyReference.cache
+\\192.168.68.15\nhom tk smart\Vo Hong Hung\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.Form1.resources
+\\192.168.68.15\nhom tk smart\Vo Hong Hung\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.Properties.Resources.resources
+\\192.168.68.15\nhom tk smart\Vo Hong Hung\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.csproj.GenerateResource.cache
+\\192.168.68.15\nhom tk smart\Vo Hong Hung\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.csproj.CoreCompileInputs.cache
+\\192.168.68.15\nhom tk smart\Vo Hong Hung\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.csproj.CopyComplete
+\\192.168.68.15\nhom tk smart\Vo Hong Hung\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.exe
+\\192.168.68.15\nhom tk smart\Vo Hong Hung\ChangeTTL\ChangeTTL\obj\Debug\ChangeTTL.pdb

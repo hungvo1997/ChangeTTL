@@ -1,0 +1,28 @@
+{
+  "list_device_count": 2,
+  "devices": [
+    {
+      "ADR": 65535,
+      "MAINDEVICE": "lamp",
+      "SUBDEVICE": "CCT",
+      "POWER": "9W"
+    },
+    {
+      "ADR": 2,
+      "MAINDEVICE": "LAMP",
+      "SUBDEVICE": "CCT",
+      "POWER": "9W"
+    },
+    {
+      "ADR": 4,
+      "MAINDEVICE": "LAMP",
+      "SUBDEVICE": "CCT",
+      "POWER": "9W"
+    },
+    {
+      "ADR": 6,
+      "MAINDEVICE": "LAMP",
+      "SUBDEVICE": "CCT",
+      "POWER": "9W"
+    }
+  ]}
